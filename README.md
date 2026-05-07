@@ -1,7 +1,6 @@
 ````md
-# Darek Sokoł
+# Dariusz Sokół
 
-```txt
 human-in-the-loop until proven unnecessary
 ````
 
