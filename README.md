@@ -11,6 +11,7 @@ and tools that eliminate repetitive work.
 
 `.NET` `Go` `React` `Azure` `Docker`
 `Kubernetes` `Postgres` `Redis` `RabbitMQ`
+`LLMs` `Automation` `Agents`
 
 ## current focus
 
