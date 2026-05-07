@@ -1,36 +1,37 @@
-<!-- ### Hi there 👋 -->
+````md
+# Darek Sokoł
 
-<!--
-**PODS4012/PODS4012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```txt
+human-in-the-loop until proven unnecessary
+````
 
-Here are some ideas to get you started:
+Building agentic systems, automations, backend platforms
+and tools that eliminate repetitive work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="33" height="33" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="33" height="33" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="33" height="33" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="33" height="33" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="33" height="33" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="33" height="33" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="33" height="33" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="33" height="33" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="33" height="33" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="33" height="33" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" width="33" height="33" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="33" height="33" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" width="33" height="33" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="33" height="33" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="33" height="33" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="33" height="33" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain.svg" width="33" height="33" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="33" height="33" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="33" height="33" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"  width="33" height="33" />
+## stack
 
+`.NET` `Go` `React` `Azure` `Docker`
+`Kubernetes` `Postgres` `Redis` `RabbitMQ`
+
+## current focus
+
+```yaml
+- AI workflows
+- autonomous tooling
+- internal platforms
+- data + automation
+- shipping faster than meetings
+```
+
+## agents
+
+| agent                 | status  |
+| --------------------- | ------- |
+| code-reviewer         | active  |
+| workflow-killer       | active  |
+| spreadsheet-destroyer | active  |
+| documentation-writer  | missing |
+
+> "If the process needs a tutorial, it probably needs automation."
+
+```
