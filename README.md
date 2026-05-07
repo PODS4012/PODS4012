@@ -33,4 +33,3 @@ and tools that eliminate repetitive work.
 
 > "If the process needs a tutorial, it probably needs automation."
 
-```
