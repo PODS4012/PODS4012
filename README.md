@@ -9,7 +9,6 @@ and tools that eliminate repetitive work.
 
 ```bash
 $ current-mode 
-
 building systems that automate systems
 ```
 
@@ -38,5 +37,5 @@ building systems that automate systems
 | spreadsheet-destroyer | active  |
 | documentation-writer  | missing |
 
-> "If the process needs a tutorial, it probably needs automation."
+> If the process needs a tutorial, it probably needs automation.
 
