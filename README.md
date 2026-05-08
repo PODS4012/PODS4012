@@ -1,11 +1,10 @@
 ````md
-# Dariusz Sokół
+# dariusz sokół
 
 human-in-the-loop until proven unnecessary
 ````
 
-Building agentic systems, automations, backend platforms
-and tools that eliminate repetitive work.
+Building agentic systems, backend platforms and automations that eliminate repetitive work.
 
 ```bash
 $ current-mode 
