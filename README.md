@@ -11,7 +11,7 @@ and tools that eliminate repetitive work.
 
 `.NET` `Blazor` `React` `Azure` `Docker`
 `Kubernetes` `Postgres` `Redis` `RabbitMQ`
-`LLMs` `Automation` `Agents`
+`LLMs` `Automation`
 
 ## current focus
 
@@ -20,7 +20,7 @@ and tools that eliminate repetitive work.
 - autonomous tooling
 - internal platforms
 - data + automation
-- shipping faster than meetings
+- shipping faster than approval chains
 ```
 
 ## agents
