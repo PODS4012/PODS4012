@@ -7,6 +7,12 @@ human-in-the-loop until proven unnecessary
 Building agentic systems, automations, backend platforms
 and tools that eliminate repetitive work.
 
+```bash
+$ current-mode 
+
+building systems that automate systems
+```
+
 ## stack
 
 `.NET` `Blazor` `React` `Azure` `Docker`
