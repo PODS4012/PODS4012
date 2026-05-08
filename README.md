@@ -9,7 +9,7 @@ and tools that eliminate repetitive work.
 
 ## stack
 
-`.NET` `React` `Azure` `Docker`
+`.NET` `Blazor` `React` `Azure` `Docker`
 `Kubernetes` `Postgres` `Redis` `RabbitMQ`
 `LLMs` `Automation` `Agents`
 
